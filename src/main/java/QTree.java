@@ -1,7 +1,7 @@
 import java.io.InputStream;
 import java.io.PrintStream;
 import java.util.Scanner;
-
+ 
 public class QTree
 {
 	
@@ -15,6 +15,7 @@ public class QTree
 		this.out=out;
 		this.in=new Scanner(in);
 		//Please initialize your data here
+		String root = "Is it alive?";
 	}
 	
     
@@ -22,7 +23,7 @@ public class QTree
 	public void playGame()
 	{
 		//??
-	
+		
         
 	}
 	
